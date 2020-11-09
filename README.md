@@ -28,9 +28,9 @@ and
 - An MIT App Inventor application
 - 3D printed pieces
 
+Here the system architecture : 
 
-
-
+![System architecture](Schéma_bob_le_nettoyeur.png?raw=true "Title")
 
 ## User Manual
 
