@@ -71,6 +71,20 @@ Once connected, you can either choose the control mode or the auto mode.
 
 - Clicking on "Auto mode" leads you to an almost blank screen. Bob is working on its own, you don't need to do anything! Every 2 second, Bob stops to spray liquid for 2 seconds. Then, it go forward for 2 seconds more. When the void is detected (Bob could fall !), it goes backward and makes a U-turn. Then, it continues to clean the table until detecting void again.
 
+**You don't have an Android smartphone ?**
+No worries ! You still can play with Bob ! Download on you phone a BLE application (we used BLE Scanner 4.0 with an Iphone), and connect to the BLE of Bob. Find Bob's BLE service, and sent a text message. Here is a list of all text messages you can directly send with BLE to bob, to make it do things :
+- BLE/auto (goes in auto mode)
+- BLE/control (goes in control mode)
+- BLE/avant (to go forward)
+- BLE/arriere (to go backward)
+- BLE/gauche (left)
+- BLE/droite (right)
+- BLE/stop (stop wheels)
+- BLE/spray (activate the spray for 2 seconds)
+- BLE/epongebas (bring down the sponge)
+- BLE/epongehaut (bring up the sponge)
+
+
 Here is a [link to a youtube video] demonstrating Bob's functionning.
 
 ## Have fun with Bob and don't forget to wear a mask !
